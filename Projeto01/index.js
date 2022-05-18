@@ -1,4 +1,4 @@
-gitimport chalk from "chalk";
+import chalk from "chalk";
 import fs from "fs";
 
 
